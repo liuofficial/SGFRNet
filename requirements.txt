@@ -1,0 +1,4 @@
+torch>=1.13
+numpy>=1.23
+Pillow>=9.0
+scikit-image>=0.20
