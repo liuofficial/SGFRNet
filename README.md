@@ -1,6 +1,6 @@
 # SGFRNet
 
-Official code organization for **Enhancing Target and Rectifying Clutter: A Structure-Guided Frequency Rectification Network for Infrared Small Target Detection**.
+Official code organization for **Enhancing Target and Rectifying Clutter: A Structure-Guided Frequency Rectification Network for Infrared Small Target Detection, 2026, IEEE JSTARS**.
 
 This release contains the SGFRNet architecture, a self-contained training/evaluation entry point, dataset loaders, losses, evaluation metrics, the warmup scheduler, and source implementations of the comparison models used in the experiments. 
 
@@ -105,4 +105,14 @@ The source files under `model/comparative_experiment/` are kept separate from th
 
 ## Citation
 
-Citation information will be added after publication.
+@article{RN1655,
+   author = {Tu, Peng and Sun, Chunqiang and Liu, Jianjun},
+   title = {Enhancing Target and Rectifying Clutter: A Structure-Guided Frequency Rectification Network for Infrared Small-Target Detection},
+   journal = {IEEE Journal of Selected Topics in Applied Earth Observations and Remo te Sensing},
+   volume = {19},
+   pages = {28002-28020},
+   DOI = {10.1109/JSTARS.2026.3725527},
+   year = {2026},
+   type = {Journal Article}
+}
+
