@@ -104,7 +104,7 @@ Checkpoints produced by the former `Net(model=...)` wrapper are accepted automat
 The source files under `model/comparative_experiment/` are kept separate from the SGFRNet entry point. This prevents optional packages required by one comparison method from blocking SGFRNet training. 
 
 ## Citation
-
+```text
 @article{RN1655,
    author = {Tu, Peng and Sun, Chunqiang and Liu, Jianjun},
    title = {Enhancing Target and Rectifying Clutter: A Structure-Guided Frequency Rectification Network for Infrared Small-Target Detection},
@@ -115,4 +115,4 @@ The source files under `model/comparative_experiment/` are kept separate from th
    year = {2026},
    type = {Journal Article}
 }
-
+```
